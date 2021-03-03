@@ -1,0 +1,8 @@
+node{
+    stage('CMD Package'){
+    
+    git 'https://github.com/rizwans197512/myapp-a.git@
+    
+    }
+
+}
